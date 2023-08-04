@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "niu",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2c7093bb-f477-410f-8edf-5b686001ebca"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "d9e05611-dc47-461e-9293-d193aeb69c6f"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "54a03384-e630-4b5e-9698-3ea7241d0963"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    }
+  ]
+}
